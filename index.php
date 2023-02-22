@@ -143,7 +143,7 @@
 
         <div class="row">
             <div class="offset-3 offset-sm-1 offset-lg-3 col-9 col-sm-12  col-lg-9">
-                <h2 class="pb-1 d4 bg-dark text-white text-center rounded-bottom overflow-hidden">Users</h2>
+                <h2 class="pb-1 d3 bg-dark text-white text-center rounded-bottom overflow-hidden">Customers</h2>
                 <div class="rounded overflow-hidden">
                     <div class="table-responsive bg-dark">
                         <table class="table table-dark table-striped table-hover">
