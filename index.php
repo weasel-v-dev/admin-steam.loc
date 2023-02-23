@@ -140,9 +140,8 @@
         </div>
     </div>
     <div class="container">
-
         <div class="row">
-            <div class="offset-3 offset-sm-1 offset-lg-3 col-9 col-sm-12  col-lg-9">
+            <div class="offset-3 offset-sm-1 offset-lg-3 col-9 col-sm-11  col-lg-9">
                 <h2 class="pb-1 d3 bg-dark text-white text-center rounded-bottom overflow-hidden">Customers</h2>
                 <div class="rounded overflow-hidden">
                     <div class="table-responsive bg-dark">
@@ -164,7 +163,7 @@
                                 <td><p class="mb-0 h4">3424$</p></td>
                                 <td>
                                     <form action="#">
-                                        <div class="input-group mb-3" style="min-width: 200px">
+                                        <div class="input-group" style="min-width: 175px">
                                             <input type="number" class="form-control" placeholder="00.00" aria-label="Recipient's username" aria-describedby="button-addon2" >
                                             <button class="btn btn-outline-success " type="button" id="button-addon2">Apply</button>
                                         </div>
@@ -172,7 +171,7 @@
                                 </td>
                                 <td>
                                     <form action="#">
-                                        <div class="input-group mb-3" style="min-width: 200px">
+                                        <div class="input-group" style="min-width: 175px">
                                             <input type="number" class="form-control" placeholder="00.00" aria-label="Recipient's username" aria-describedby="button-addon2" >
                                             <button class="btn btn-outline-success " type="button" id="button-addon2">Apply</button>
                                         </div>
